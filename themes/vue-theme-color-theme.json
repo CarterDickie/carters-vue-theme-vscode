@@ -179,7 +179,7 @@
      **/
     {
       "name": "string between quotes and template literals",
-      "scope": "string.quoted.double, string.template string.quoted.single",
+      "scope": "string.quoted.double, string.template, string.quoted.single",
       "settings": {
         "foreground": "#00abc1da"
       }
